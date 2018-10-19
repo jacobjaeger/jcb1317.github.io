@@ -16,7 +16,7 @@
 title: Jacob Jäger
 email: mail@jljaeger.de
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal github.io site. Not actually used. My actual site is [here](https://jacobjaeger.net)
+  My personal github.io site. Not actually used. My actual site is jacobjaeger.net
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jcb1317
