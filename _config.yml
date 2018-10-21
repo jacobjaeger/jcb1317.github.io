@@ -27,7 +27,7 @@ permalink: /:categories/:slug
 # Build settings
 markdown: kramdown
 exclude : ["Gemfile", "Gemfile.lock", "CNAME"]
-theme: minima
+theme: jekyll-sleek
 plugins:
   - jekyll-feed
 
