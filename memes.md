@@ -1,3 +1,8 @@
+---
+title: memes
+name: memes
+---
+
 # the ultimate meme compendium
 
 * pepe
